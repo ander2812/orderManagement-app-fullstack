@@ -9,6 +9,8 @@ import { MatButtonModule } from '@angular/material/button';
 import { CommonModule } from '@angular/common';
 import { CustomerPrediction } from '../interfaces/order-management.interfaces';
 import { OrderManagementService } from '../services/order-management.service';
+import { OrdersModalComponent } from '../modals/orders-modal.component';
+import { NewOrderModalComponent } from '../modals/new-order-modal.component';
 import { debounceTime, Subject } from 'rxjs';
 import { FormsModule } from '@angular/forms';
 import { MatToolbarModule } from '@angular/material/toolbar';
@@ -32,7 +34,7 @@ import { MatToolbarModule } from '@angular/material/toolbar';
   ]
 })
 export class OrderManagementComponent implements OnInit {
-  displayedColumns = ['customerName', 'lastOrderDate', 'nextPredictedOrder'];
+  displayedColumns = ['customerName', 'lastOrderDate', 'nextPredictedOrder', 'actions'];
   dataSource = new MatTableDataSource<CustomerPrediction>([]);
   totalItems = 0;
   pageSize = 10;
@@ -86,5 +88,33 @@ export class OrderManagementComponent implements OnInit {
   onFilterChange(event: Event) {
     const filterValue = (event.target as HTMLInputElement).value.trim().toLowerCase();
     this.filterSubject.next(filterValue);
+  }
+
+  openOrdersModal(customer: CustomerPrediction) {
+    this.dialog.open(OrdersModalComponent, {
+      width: '800px',
+      data: { 
+        customerName: customer.customerName,
+        custId: customer.custId
+
+
+       }
+    });
+  }
+
+  openNewOrderModal(customer: CustomerPrediction) {
+    const dialogRef = this.dialog.open(NewOrderModalComponent, {
+      width: '800px',
+      data: { 
+        customerName: customer.customerName,
+        custId: customer.custId
+      }
+    });
+
+    dialogRef.afterClosed().subscribe(result => {
+      if(result === true){
+        this.loadData();
+      }
+    });
   }
 }

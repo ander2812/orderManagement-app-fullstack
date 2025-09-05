@@ -1,0 +1,55 @@
+table {
+  width: 100%;
+}
+
+.table-container {
+  flex: 1 1 auto;
+  overflow: auto;
+}
+
+.modal-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  max-width: 700px;
+  box-sizing: border-box;
+  padding: 16px;
+  background-color: white;
+  overflow: hidden;
+}
+
+.modal-footer {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  padding: 16px 0 0 0;
+  border-top: 1px solid #ddd;
+  box-sizing: border-box;
+}
+
+.modal-header {
+  background-color: #d32f2f;
+  color: white;
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.modal-title {
+  margin: 0;
+  font-weight: bold;
+}
+
+.modal-footer button {
+  background-color: #d32f2f;
+  color: white;
+}
+
+.modal-footer button:hover {
+  background-color: #b71c1c;
+}
+
+button[mat-icon-button] {
+  color: white;
+}
