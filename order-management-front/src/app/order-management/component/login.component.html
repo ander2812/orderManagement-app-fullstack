@@ -1,0 +1,17 @@
+<div class="login-wrapper">
+  <form [formGroup]="form" (ngSubmit)="submit()" class="card">
+    <h2>Iniciar sesión</h2>
+
+    <label>Usuario</label>
+    <input type="text" formControlName="userName" autocomplete="username" />
+
+    <label>Contraseña</label>
+    <input type="password" formControlName="password" autocomplete="current-password" />
+
+    <button type="submit" [disabled]="loading || form.invalid">
+      {{ loading ? 'Ingresando...' : 'Ingresar' }}
+    </button>
+
+    <p class="error" *ngIf="error">{{ error }}</p>
+  </form>
+</div>

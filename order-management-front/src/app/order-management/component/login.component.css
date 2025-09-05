@@ -1,0 +1,11 @@
+.login-wrapper { min-height: 80vh; display: grid; place-items: center; }
+.card {
+  width: 320px; padding: 20px; border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.08); background: #fff;
+  display: grid; gap: 12px;
+}
+.card h2 { margin: 0 0 8px; }
+.card label { font-size: 12px; opacity: .7; }
+.card input { padding: 10px; border: 1px solid #ddd; border-radius: 8px; }
+.card button { padding: 10px; border: 0; border-radius: 8px; cursor: pointer; }
+.error { color: #c00; font-size: 12px; margin: 4px 0 0; }

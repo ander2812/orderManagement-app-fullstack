@@ -328,7 +328,7 @@
               "RelativeDocumentMoniker": "OrderManagement.Api\\appsettings.json",
               "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Api\\appsettings.json",
               "RelativeToolTip": "OrderManagement.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-09-05T18:33:42.308Z",
               "EditorCaption": ""
@@ -343,8 +343,7 @@
               "RelativeToolTip": "OrderManagement.Api\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:24:30.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T18:24:30.847Z"
             },
             {
               "$type": "Document",
@@ -356,8 +355,7 @@
               "RelativeToolTip": "OrderManagement.Infrastructure\\Data\\UserContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:20:39.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T18:20:39.852Z"
             },
             {
               "$type": "Document",
@@ -369,8 +367,7 @@
               "RelativeToolTip": "OrderManagement.Application\\Services\\TokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:18:31.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T18:18:31.691Z"
             },
             {
               "$type": "Document",
@@ -382,8 +379,7 @@
               "RelativeToolTip": "OrderManagement.Application\\Services\\PasswordService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:18:10.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T18:18:10.276Z"
             },
             {
               "$type": "Document",
@@ -395,8 +391,7 @@
               "RelativeToolTip": "OrderManagement.Application\\Services\\AuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:17:18.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T18:17:18.251Z"
             },
             {
               "$type": "Document",
@@ -408,8 +403,7 @@
               "RelativeToolTip": "OrderManagement.Application\\Interfaces\\Services\\ITokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:15:20.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T18:15:20.54Z"
             },
             {
               "$type": "Document",
@@ -421,8 +415,7 @@
               "RelativeToolTip": "OrderManagement.Application\\Interfaces\\Services\\IPasswordService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:15:02.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T18:15:02.051Z"
             },
             {
               "$type": "Document",
@@ -434,8 +427,7 @@
               "RelativeToolTip": "OrderManagement.Application\\Interfaces\\Services\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:14:39.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T18:14:39.178Z"
             },
             {
               "$type": "Document",
@@ -447,8 +439,7 @@
               "RelativeToolTip": "OrderManagement.Infrastructure\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T15:09:58.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T15:09:58.15Z"
             },
             {
               "$type": "Document",
@@ -460,8 +451,7 @@
               "RelativeToolTip": "OrderManagement.Api\\Controllers\\OrderController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T15:12:57.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T15:12:57.948Z"
             },
             {
               "$type": "Document",
@@ -473,8 +463,7 @@
               "RelativeToolTip": "OrderManagement.Api\\Program.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAmwDEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T14:26:05.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T14:26:05.361Z"
             },
             {
               "$type": "Document",
@@ -486,8 +475,7 @@
               "RelativeToolTip": "OrderManagement.Application\\Interfaces\\Context\\IUserContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:12:20.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T18:12:20.133Z"
             },
             {
               "$type": "Document",
@@ -499,8 +487,7 @@
               "RelativeToolTip": "OrderManagement.Application\\Auth\\JwtOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:10:37.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T18:10:37.279Z"
             },
             {
               "$type": "Document",
@@ -512,8 +499,7 @@
               "RelativeToolTip": "OrderManagement.Application\\Services\\OrderService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T15:22:56.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T15:22:56.543Z"
             },
             {
               "$type": "Document",
@@ -525,8 +511,7 @@
               "RelativeToolTip": "OrderManagement.Api\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-05T15:32:11.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T15:32:11.044Z"
             },
             {
               "$type": "Document",
@@ -550,8 +535,7 @@
               "RelativeToolTip": "OrderManagement.Application\\Mappings\\OrderProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T14:44:22.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T14:44:22.438Z"
             },
             {
               "$type": "Document",
@@ -599,8 +583,7 @@
               "RelativeToolTip": "OrderManagement.Application\\OrderManagement.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-05T14:29:40.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T14:29:40.985Z"
             },
             {
               "$type": "Document",

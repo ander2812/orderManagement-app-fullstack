@@ -31,6 +31,17 @@ export class OrderManagementService {
         map(response => response.data)
       );
   }
+
+  getAllOrders(pageIndex: number, pageSize: number, sortField: string, sortOrder: 'asc' | 'desc', filterValue: string): Observable<Order[]> {
+    let params = new HttpParams()
+      .set('pageIndex', pageIndex.toString())
+      .set('pageSize', pageSize.toString())
+      .set('sortField', sortField)
+      .set('sortOrder', sortOrder)
+      .set('filterValue', filterValue);
+
+    return this.http.get<Order[]>(`${this.apiUrl}/Order`, { params });
+  }
   
   createOrder(orderData: any): Observable<any> {
     return this.http.post(`${this.apiUrl}/order`, orderData);
