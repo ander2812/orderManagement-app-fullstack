@@ -10,3 +10,16 @@ C:\Users\rocks\OneDrive\Documentos\orderManagement\OrderManagement.Domain\obj\De
 C:\Users\rocks\OneDrive\Documentos\orderManagement\OrderManagement.Domain\obj\Debug\net9.0\refint\OrderManagement.Domain.dll
 C:\Users\rocks\OneDrive\Documentos\orderManagement\OrderManagement.Domain\obj\Debug\net9.0\OrderManagement.Domain.pdb
 C:\Users\rocks\OneDrive\Documentos\orderManagement\OrderManagement.Domain\obj\Debug\net9.0\ref\OrderManagement.Domain.dll
+C:\Users\rocks\OneDrive\Documentos\orderManagement-app-fullstack\orderManagement\OrderManagement.Domain\bin\Debug\net9.0\OrderManagement.Domain.deps.json
+C:\Users\rocks\OneDrive\Documentos\orderManagement-app-fullstack\orderManagement\OrderManagement.Domain\bin\Debug\net9.0\OrderManagement.Domain.dll
+C:\Users\rocks\OneDrive\Documentos\orderManagement-app-fullstack\orderManagement\OrderManagement.Domain\bin\Debug\net9.0\OrderManagement.Domain.pdb
+C:\Users\rocks\OneDrive\Documentos\orderManagement-app-fullstack\orderManagement\OrderManagement.Domain\obj\Debug\net9.0\OrderManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\rocks\OneDrive\Documentos\orderManagement-app-fullstack\orderManagement\OrderManagement.Domain\obj\Debug\net9.0\OrderManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rocks\OneDrive\Documentos\orderManagement-app-fullstack\orderManagement\OrderManagement.Domain\obj\Debug\net9.0\OrderManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\rocks\OneDrive\Documentos\orderManagement-app-fullstack\orderManagement\OrderManagement.Domain\obj\Debug\net9.0\OrderManagement.Domain.AssemblyInfo.cs
+C:\Users\rocks\OneDrive\Documentos\orderManagement-app-fullstack\orderManagement\OrderManagement.Domain\obj\Debug\net9.0\OrderManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rocks\OneDrive\Documentos\orderManagement-app-fullstack\orderManagement\OrderManagement.Domain\obj\Debug\net9.0\OrderManagement.Domain.sourcelink.json
+C:\Users\rocks\OneDrive\Documentos\orderManagement-app-fullstack\orderManagement\OrderManagement.Domain\obj\Debug\net9.0\OrderManagement.Domain.dll
+C:\Users\rocks\OneDrive\Documentos\orderManagement-app-fullstack\orderManagement\OrderManagement.Domain\obj\Debug\net9.0\refint\OrderManagement.Domain.dll
+C:\Users\rocks\OneDrive\Documentos\orderManagement-app-fullstack\orderManagement\OrderManagement.Domain\obj\Debug\net9.0\OrderManagement.Domain.pdb
+C:\Users\rocks\OneDrive\Documentos\orderManagement-app-fullstack\orderManagement\OrderManagement.Domain\obj\Debug\net9.0\ref\OrderManagement.Domain.dll
