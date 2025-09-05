@@ -21,13 +21,10 @@
 ## Pasos para probar la aplicación
 
 1. La aplicación usa JWT para la autenticación, por lo cual es necesario ingresar con cualquiera de los siguientes usuarios:
-Customer:
-Username: mike.ray
-Password:Client123!
+   
+Customer: `User Name:` mike.ray `Password:`Client123!
 
-SalesManager: 
-Username:judy.manager 
-Password:Manager123!
+SalesManager: `Username:`judy.manager `Password:`Manager123!
 
 2. Los usuarios tienen visuales distintas dependiendo del rol, customer solo puede ver un listado con las ordenes que le corresponden. Por otro el rol SalesManager, puede ver a todos los clientes con su respectivas ordenes, también puede realizar creaciones de nuevas ordenes.
    Nota: Por tiempo no se alcanzó a realizar el CRUD completo desde la interface del front.
