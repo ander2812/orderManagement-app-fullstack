@@ -26,7 +26,7 @@ Customer: `User Name:` mike.ray `Password:`Client123!
 
 SalesManager: `User Name:`judy.manager `Password:`Manager123!
 
-2. Los usuarios tienen visuales distintas dependiendo del rol, customer solo puede ver un listado con las ordenes que le corresponden. Por otro el rol SalesManager, puede ver a todos los clientes con su respectivas ordenes, también puede realizar creaciones de nuevas ordenes.
+2. Los usuarios tienen visuales distintas dependiendo del rol, Customer solo puede ver un listado con las ordenes que le corresponden. Por otro el rol SalesManager, puede ver a todos los clientes con su respectivas ordenes, también puede realizar creaciones de nuevas ordenes.
    Nota: Por tiempo no se alcanzó a realizar el CRUD completo desde la interface del front.
 
 ---
