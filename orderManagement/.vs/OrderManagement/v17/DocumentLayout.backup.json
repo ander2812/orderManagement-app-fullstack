@@ -3,16 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D45B027-C6DD-464C-9EBE-CBDDDEF363A3}|OrderManagement.Api\\OrderManagement.Api.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8D45B027-C6DD-464C-9EBE-CBDDDEF363A3}|OrderManagement.Api\\OrderManagement.Api.csproj|solutionrelative:ordermanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8D45B027-C6DD-464C-9EBE-CBDDDEF363A3}|OrderManagement.Api\\OrderManagement.Api.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D45B027-C6DD-464C-9EBE-CBDDDEF363A3}|OrderManagement.Api\\OrderManagement.Api.csproj|solutionrelative:ordermanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D45B027-C6DD-464C-9EBE-CBDDDEF363A3}|OrderManagement.Api\\OrderManagement.Api.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D45B027-C6DD-464C-9EBE-CBDDDEF363A3}|OrderManagement.Api\\OrderManagement.Api.csproj|solutionrelative:ordermanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8D45B027-C6DD-464C-9EBE-CBDDDEF363A3}|OrderManagement.Api\\OrderManagement.Api.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D45B027-C6DD-464C-9EBE-CBDDDEF363A3}|OrderManagement.Api\\OrderManagement.Api.csproj|solutionrelative:ordermanagement.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D45B027-C6DD-464C-9EBE-CBDDDEF363A3}|OrderManagement.Api\\OrderManagement.Api.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D45B027-C6DD-464C-9EBE-CBDDDEF363A3}|OrderManagement.Api\\OrderManagement.Api.csproj|solutionrelative:ordermanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FAD331-6F8F-42F0-8900-B168C43C0103}|OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FAD331-6F8F-42F0-8900-B168C43C0103}|OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj|solutionrelative:ordermanagement.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FAD331-6F8F-42F0-8900-B168C43C0103}|OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.infrastructure\\data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FAD331-6F8F-42F0-8900-B168C43C0103}|OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj|solutionrelative:ordermanagement.infrastructure\\data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.application\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.application\\mappings\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\mappings\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.application\\interfaces\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\interfaces\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.application\\interfaces\\services\\ipasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\interfaces\\services\\ipasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.application\\interfaces\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\interfaces\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.application\\interfaces\\context\\iusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\interfaces\\context\\iusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.application\\auth\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\auth\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.application\\ordermanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\ordermanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D45B027-C6DD-464C-9EBE-CBDDDEF363A3}|OrderManagement.Api\\OrderManagement.Api.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D45B027-C6DD-464C-9EBE-CBDDDEF363A3}|OrderManagement.Api\\OrderManagement.Api.csproj|solutionrelative:ordermanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,20 +91,12 @@
       "RelativeMoniker": "D:0:0:{8D45B027-C6DD-464C-9EBE-CBDDDEF363A3}|OrderManagement.Api\\OrderManagement.Api.csproj|solutionrelative:ordermanagement.api\\controllers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D45B027-C6DD-464C-9EBE-CBDDDEF363A3}|OrderManagement.Api\\OrderManagement.Api.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D45B027-C6DD-464C-9EBE-CBDDDEF363A3}|OrderManagement.Api\\OrderManagement.Api.csproj|solutionrelative:ordermanagement.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8D45B027-C6DD-464C-9EBE-CBDDDEF363A3}|OrderManagement.Api\\OrderManagement.Api.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D45B027-C6DD-464C-9EBE-CBDDDEF363A3}|OrderManagement.Api\\OrderManagement.Api.csproj|solutionrelative:ordermanagement.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64FAD331-6F8F-42F0-8900-B168C43C0103}|OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64FAD331-6F8F-42F0-8900-B168C43C0103}|OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj|solutionrelative:ordermanagement.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64FAD331-6F8F-42F0-8900-B168C43C0103}|OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64FAD331-6F8F-42F0-8900-B168C43C0103}|OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj|solutionrelative:ordermanagement.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64FAD331-6F8F-42F0-8900-B168C43C0103}|OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.infrastructure\\repositories\\shipperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -85,10 +137,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.application\\mappings\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\mappings\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.application\\mappings\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\mappings\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.application\\mappings\\orderdetailprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -259,10 +307,6 @@
       "RelativeMoniker": "D:0:0:{64FAD331-6F8F-42F0-8900-B168C43C0103}|OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj|solutionrelative:ordermanagement.infrastructure\\ordermanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.application\\ordermanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EC686DD1-7B34-455E-A0AB-FA37DE315680}|OrderManagement.Application\\OrderManagement.Application.csproj|solutionrelative:ordermanagement.application\\ordermanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8D45B027-C6DD-464C-9EBE-CBDDDEF363A3}|OrderManagement.Api\\OrderManagement.Api.csproj|c:\\users\\rocks\\onedrive\\documentos\\ordermanagement-app-fullstack\\ordermanagement\\ordermanagement.api\\ordermanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8D45B027-C6DD-464C-9EBE-CBDDDEF363A3}|OrderManagement.Api\\OrderManagement.Api.csproj|solutionrelative:ordermanagement.api\\ordermanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -279,6 +323,201 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderManagement.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Api\\appsettings.json",
+              "RelativeToolTip": "OrderManagement.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-05T18:33:42.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "OrderManagement.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:24:30.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Infrastructure\\Data\\UserContext.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Infrastructure\\Data\\UserContext.cs",
+              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Infrastructure\\Data\\UserContext.cs",
+              "RelativeToolTip": "OrderManagement.Infrastructure\\Data\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:20:39.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Application\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Services\\TokenService.cs",
+              "RelativeToolTip": "OrderManagement.Application\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:18:31.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Services\\PasswordService.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Application\\Services\\PasswordService.cs",
+              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Services\\PasswordService.cs",
+              "RelativeToolTip": "OrderManagement.Application\\Services\\PasswordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:18:10.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "OrderManagement.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:17:18.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\Services\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Services\\ITokenService.cs",
+              "RelativeToolTip": "OrderManagement.Application\\Interfaces\\Services\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:15:20.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Services\\IPasswordService.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\Services\\IPasswordService.cs",
+              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Services\\IPasswordService.cs",
+              "RelativeToolTip": "OrderManagement.Application\\Interfaces\\Services\\IPasswordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:15:02.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeToolTip": "OrderManagement.Application\\Interfaces\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:14:39.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "OrderManagement.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T15:09:58.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Api\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Api\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Api\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderManagement.Api\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T15:12:57.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Api\\Program.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Api\\Program.cs",
+              "RelativeToolTip": "OrderManagement.Api\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwDEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:26:05.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserContext.cs",
+              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Context\\IUserContext.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\Context\\IUserContext.cs",
+              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Context\\IUserContext.cs",
+              "RelativeToolTip": "OrderManagement.Application\\Interfaces\\Context\\IUserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:12:20.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Auth\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Application\\Auth\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Auth\\JwtOptions.cs",
+              "RelativeToolTip": "OrderManagement.Application\\Auth\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:10:37.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "OrderManagement.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T15:22:56.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "OrderManagement.Api\\Properties\\launchSettings.json",
@@ -291,43 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShipperService.cs",
-              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Services\\ShipperService.cs",
-              "RelativeDocumentMoniker": "OrderManagement.Application\\Services\\ShipperService.cs",
-              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Services\\ShipperService.cs",
-              "RelativeToolTip": "OrderManagement.Application\\Services\\ShipperService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T15:24:54.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "OrderManagement.Application\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Services\\ProductService.cs",
-              "RelativeToolTip": "OrderManagement.Application\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T15:24:33.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "OrderManagement.Application\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Services\\OrderService.cs",
-              "RelativeToolTip": "OrderManagement.Application\\Services\\OrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T15:22:56.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 20,
               "Title": "OrderDetailService.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Services\\OrderDetailService.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Services\\OrderDetailService.cs",
@@ -339,31 +542,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Api\\Program.cs",
-              "RelativeDocumentMoniker": "OrderManagement.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Api\\Program.cs",
-              "RelativeToolTip": "OrderManagement.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "OrderProfile.cs",
+              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Mappings\\OrderProfile.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Application\\Mappings\\OrderProfile.cs",
+              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Mappings\\OrderProfile.cs",
+              "RelativeToolTip": "OrderManagement.Application\\Mappings\\OrderProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T14:26:05.361Z"
+              "WhenOpened": "2025-09-05T14:44:22.438Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Api\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "OrderManagement.Api\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Api\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "OrderManagement.Api\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "OrderManagement.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T15:12:57.948Z"
+              "WhenOpened": "2025-09-05T15:24:33.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Api\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "OrderManagement.Api\\Controllers\\EmployeeController.cs",
@@ -375,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 21,
               "Title": "ShipperController.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Api\\Controllers\\ShipperController.cs",
               "RelativeDocumentMoniker": "OrderManagement.Api\\Controllers\\ShipperController.cs",
@@ -387,19 +591,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "OrderManagement.Infrastructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "OrderManagement.Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T15:09:58.15Z"
+              "DocumentIndex": 16,
+              "Title": "OrderManagement.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\OrderManagement.Application.csproj",
+              "RelativeDocumentMoniker": "OrderManagement.Application\\OrderManagement.Application.csproj",
+              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\OrderManagement.Application.csproj",
+              "RelativeToolTip": "OrderManagement.Application\\OrderManagement.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-05T14:29:40.985Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
+              "Title": "ShipperService.cs",
+              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Services\\ShipperService.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Application\\Services\\ShipperService.cs",
+              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Services\\ShipperService.cs",
+              "RelativeToolTip": "OrderManagement.Application\\Services\\ShipperService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T15:24:54.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "ShipperRepository.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Infrastructure\\Repositories\\ShipperRepository.cs",
               "RelativeDocumentMoniker": "OrderManagement.Infrastructure\\Repositories\\ShipperRepository.cs",
@@ -411,7 +628,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Infrastructure\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "OrderManagement.Infrastructure\\Repositories\\ProductRepository.cs",
@@ -423,7 +640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 26,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Infrastructure\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "OrderManagement.Infrastructure\\Repositories\\OrderRepository.cs",
@@ -435,7 +652,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 27,
               "Title": "OrderDetailRepository.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Infrastructure\\Repositories\\OrderDetailRepository.cs",
               "RelativeDocumentMoniker": "OrderManagement.Infrastructure\\Repositories\\OrderDetailRepository.cs",
@@ -447,7 +664,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 28,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Infrastructure\\Repositories\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "OrderManagement.Infrastructure\\Repositories\\EmployeeRepository.cs",
@@ -459,7 +676,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 29,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Infrastructure\\Repositories\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "OrderManagement.Infrastructure\\Repositories\\CustomerRepository.cs",
@@ -471,7 +688,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 30,
               "Title": "CustomerOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Infrastructure\\Repositories\\CustomerOrderRepository.cs",
               "RelativeDocumentMoniker": "OrderManagement.Infrastructure\\Repositories\\CustomerOrderRepository.cs",
@@ -483,7 +700,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "OrderManagement.Infrastructure\\Data\\ApplicationDbContext.cs",
@@ -495,7 +712,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 31,
               "Title": "DependecyRegister.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Infrastructure\\DependencyInjection\\DependecyRegister.cs",
               "RelativeDocumentMoniker": "OrderManagement.Infrastructure\\DependencyInjection\\DependecyRegister.cs",
@@ -507,7 +724,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 40,
               "Title": "IShipperService.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Services\\IShipperService.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\Services\\IShipperService.cs",
@@ -519,7 +736,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 39,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Services\\IOrderService.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\Services\\IOrderService.cs",
@@ -531,7 +748,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 38,
               "Title": "IEmployeeService.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Services\\IEmployeeService.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\Services\\IEmployeeService.cs",
@@ -543,7 +760,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 37,
               "Title": "ICustomerService.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Services\\ICustomerService.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\Services\\ICustomerService.cs",
@@ -555,7 +772,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 36,
               "Title": "CustomerProfile.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Mappings\\CustomerProfile.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Mappings\\CustomerProfile.cs",
@@ -567,7 +784,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 35,
               "Title": "EmployeeProfile.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Mappings\\EmployeeProfile.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Mappings\\EmployeeProfile.cs",
@@ -579,7 +796,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 34,
               "Title": "OrderDetailProfile.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Mappings\\OrderDetailProfile.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Mappings\\OrderDetailProfile.cs",
@@ -591,19 +808,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "OrderProfile.cs",
-              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Mappings\\OrderProfile.cs",
-              "RelativeDocumentMoniker": "OrderManagement.Application\\Mappings\\OrderProfile.cs",
-              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Mappings\\OrderProfile.cs",
-              "RelativeToolTip": "OrderManagement.Application\\Mappings\\OrderProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T14:44:22.438Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 33,
               "Title": "ProductProfile.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Mappings\\ProductProfile.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Mappings\\ProductProfile.cs",
@@ -615,7 +820,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 32,
               "Title": "ShipperProfile.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Mappings\\ShipperProfile.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Mappings\\ShipperProfile.cs",
@@ -627,7 +832,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 41,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Services\\IProductService.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\Services\\IProductService.cs",
@@ -639,7 +844,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 42,
               "Title": "IOrderDetailService.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Services\\IOrderDetailService.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\Services\\IOrderDetailService.cs",
@@ -651,7 +856,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 43,
               "Title": "ICustomerOrderService.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Services\\ICustomerOrderService.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\Services\\ICustomerOrderService.cs",
@@ -663,7 +868,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 48,
               "Title": "IOrderDetailRepository.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Repositories\\IOrderDetailRepository.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\Repositories\\IOrderDetailRepository.cs",
@@ -675,7 +880,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 49,
               "Title": "IEmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Repositories\\IEmployeeRepository.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\Repositories\\IEmployeeRepository.cs",
@@ -687,7 +892,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 50,
               "Title": "ICustomerRepository.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Repositories\\ICustomerRepository.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\Repositories\\ICustomerRepository.cs",
@@ -699,7 +904,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 47,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Repositories\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\Repositories\\IOrderRepository.cs",
@@ -711,7 +916,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 46,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Repositories\\IProductRepository.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\Repositories\\IProductRepository.cs",
@@ -723,7 +928,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 45,
               "Title": "IShipperRepository.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Repositories\\IShipperRepository.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\Repositories\\IShipperRepository.cs",
@@ -735,7 +940,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 44,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\Repositories\\IUserRepository.cs",
@@ -747,7 +952,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 51,
               "Title": "ICustomerOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Repositories\\ICustomerOrderRepository.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\Repositories\\ICustomerOrderRepository.cs",
@@ -759,7 +964,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 52,
               "Title": "ShipperDto.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Dtos\\ShipperDto.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Dtos\\ShipperDto.cs",
@@ -771,7 +976,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 53,
               "Title": "SalesPredictionDto.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Dtos\\SalesPredictionDto.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Dtos\\SalesPredictionDto.cs",
@@ -783,7 +988,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 54,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Dtos\\ProductDto.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Dtos\\ProductDto.cs",
@@ -795,7 +1000,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 55,
               "Title": "OrderWithDetailDto.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Dtos\\OrderWithDetailDto.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Dtos\\OrderWithDetailDto.cs",
@@ -807,7 +1012,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 56,
               "Title": "OrderDto.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Dtos\\OrderDto.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Dtos\\OrderDto.cs",
@@ -819,7 +1024,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 57,
               "Title": "OrderDetailDto.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Dtos\\OrderDetailDto.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Dtos\\OrderDetailDto.cs",
@@ -831,7 +1036,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 58,
               "Title": "EmployeeDto.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Dtos\\EmployeeDto.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Dtos\\EmployeeDto.cs",
@@ -843,7 +1048,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 59,
               "Title": "CustomerDto.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Dtos\\CustomerDto.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Dtos\\CustomerDto.cs",
@@ -855,7 +1060,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 60,
               "Title": "AuthDto.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Dtos\\AuthDto.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Dtos\\AuthDto.cs",
@@ -867,7 +1072,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 61,
               "Title": "IDependencyRegister.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\Interfaces\\Common\\IDependencyRegister.cs",
               "RelativeDocumentMoniker": "OrderManagement.Application\\Interfaces\\Common\\IDependencyRegister.cs",
@@ -879,7 +1084,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 62,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "OrderManagement.Domain\\Entities\\User.cs",
@@ -891,7 +1096,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 63,
               "Title": "Supplier.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Domain\\Entities\\Supplier.cs",
               "RelativeDocumentMoniker": "OrderManagement.Domain\\Entities\\Supplier.cs",
@@ -903,7 +1108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 64,
               "Title": "Shipper.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Domain\\Entities\\Shipper.cs",
               "RelativeDocumentMoniker": "OrderManagement.Domain\\Entities\\Shipper.cs",
@@ -915,7 +1120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 65,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "OrderManagement.Domain\\Entities\\Product.cs",
@@ -927,7 +1132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 66,
               "Title": "OrderValue.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Domain\\Entities\\OrderValue.cs",
               "RelativeDocumentMoniker": "OrderManagement.Domain\\Entities\\OrderValue.cs",
@@ -939,7 +1144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 67,
               "Title": "OrderTotalsByYear.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Domain\\Entities\\OrderTotalsByYear.cs",
               "RelativeDocumentMoniker": "OrderManagement.Domain\\Entities\\OrderTotalsByYear.cs",
@@ -951,7 +1156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 68,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Domain\\Entities\\OrderDetail.cs",
               "RelativeDocumentMoniker": "OrderManagement.Domain\\Entities\\OrderDetail.cs",
@@ -963,7 +1168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 69,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Domain\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "OrderManagement.Domain\\Entities\\Order.cs",
@@ -975,7 +1180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 70,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Domain\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "OrderManagement.Domain\\Entities\\Employee.cs",
@@ -987,7 +1192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 71,
               "Title": "CustOrder.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Domain\\Entities\\CustOrder.cs",
               "RelativeDocumentMoniker": "OrderManagement.Domain\\Entities\\CustOrder.cs",
@@ -999,7 +1204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 72,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Domain\\Entities\\Customer.cs",
               "RelativeDocumentMoniker": "OrderManagement.Domain\\Entities\\Customer.cs",
@@ -1011,7 +1216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 73,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "OrderManagement.Domain\\Entities\\Category.cs",
@@ -1023,7 +1228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 74,
               "Title": "OrderManagement.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Domain\\OrderManagement.Domain.csproj",
               "RelativeDocumentMoniker": "OrderManagement.Domain\\OrderManagement.Domain.csproj",
@@ -1035,7 +1240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 75,
               "Title": "OrderManagement.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj",
               "RelativeDocumentMoniker": "OrderManagement.Infrastructure\\OrderManagement.Infrastructure.csproj",
@@ -1047,19 +1252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "OrderManagement.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\OrderManagement.Application.csproj",
-              "RelativeDocumentMoniker": "OrderManagement.Application\\OrderManagement.Application.csproj",
-              "ToolTip": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Application\\OrderManagement.Application.csproj",
-              "RelativeToolTip": "OrderManagement.Application\\OrderManagement.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-05T14:29:40.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 76,
               "Title": "OrderManagement.Api.csproj",
               "DocumentMoniker": "C:\\Users\\rocks\\OneDrive\\Documentos\\orderManagement-app-fullstack\\orderManagement\\OrderManagement.Api\\OrderManagement.Api.csproj",
               "RelativeDocumentMoniker": "OrderManagement.Api\\OrderManagement.Api.csproj",

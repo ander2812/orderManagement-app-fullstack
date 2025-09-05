@@ -1,8 +1,16 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using OrderManagement.Application.Auth;
 using OrderManagement.Application.Interfaces.Common;
+using OrderManagement.Application.Interfaces.Context;
+using OrderManagement.Application.Interfaces.Repositories;
 using OrderManagement.Application.Interfaces.Services;
 using OrderManagement.Application.Mappings;
-using OrderManagement.Infrastructure.DependencyInjection;
 using OrderManagement.Application.Services;
+using OrderManagement.Infrastructure.Data;
+using OrderManagement.Infrastructure.DependencyInjection;
+using OrderManagement.Infrastructure.Repositories;
+using System.Text;
 
 
 
@@ -28,6 +36,69 @@ builder.Services.AddScoped<ICustomerService, CustomerService>()
     .AddScoped<IOrderDetailService, OrderDetailService>()
     .AddScoped<ICustomerOrderService, CustomerOrderService>();
 
+builder.Services.Configure<JwtOptions>(builder.Configuration.GetSection("Jwt"));
+builder.Services
+    .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+    .AddJwtBearer(JwtBearerDefaults.AuthenticationScheme, o =>
+    {
+        var cfg = builder.Configuration.GetSection("Jwt");
+        o.TokenValidationParameters = new TokenValidationParameters
+        {
+            ValidateIssuer = true,
+            ValidateAudience = true,
+            ValidateIssuerSigningKey = true,
+            ValidIssuer = cfg["Issuer"],
+            ValidAudience = cfg["Audience"],
+            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(cfg["Key"]!))
+        };
+
+        o.Events = new JwtBearerEvents
+        {
+            OnAuthenticationFailed = ctx =>
+            {
+                Console.WriteLine($"[JWT FAIL] {ctx.Exception.GetType().Name}: {ctx.Exception.Message}");
+                return Task.CompletedTask;
+            },
+            OnChallenge = ctx =>
+            {
+                ctx.ErrorDescription ??= ctx.AuthenticateFailure?.Message;
+                return Task.CompletedTask;
+            }
+        };
+    });
+
+builder.Services.AddAuthorization();
+builder.Services.AddHttpContextAccessor();
+builder.Services.AddScoped<IUserContext, HttpUserContext>();
+builder.Services.AddScoped<IPasswordService, BcryptPasswordService>();
+builder.Services.AddScoped<ITokenService, TokenService>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IAuthService, AuthService>();
+
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+
+builder.Services.AddSwaggerGen(opt =>
+{
+    opt.SwaggerDoc("v1", new() { Title = "API", Version = "v1" });
+    opt.AddSecurityDefinition("Bearer", new()
+    {
+        Description = "JWT Authorization header usando el esquema Bearer. Ej: 'Bearer {token}'",
+        Name = "Authorization",
+        In = Microsoft.OpenApi.Models.ParameterLocation.Header,
+        Type = Microsoft.OpenApi.Models.SecuritySchemeType.Http,
+        Scheme = "bearer",
+        BearerFormat = "JWT"
+    });
+    opt.AddSecurityRequirement(new()
+    {
+        {
+            new() { Reference = new() { Type = Microsoft.OpenApi.Models.ReferenceType.SecurityScheme, Id = "Bearer" } },
+            Array.Empty<string>()
+        }
+    });
+});
+
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAngularApp",
@@ -51,7 +122,6 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseCors("AllowAngularApp");
-app.UseHttpsRedirection();
 app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();

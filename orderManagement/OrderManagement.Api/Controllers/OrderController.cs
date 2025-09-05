@@ -4,6 +4,7 @@ using OrderManagement.Application.Dtos;
 using OrderManagement.Application.Interfaces.Services;
 namespace OrderManagement.Api.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("api/[controller]")]
     public class OrderController : ControllerBase
@@ -40,6 +41,7 @@ namespace OrderManagement.Api.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "SalesManager")]
         public async Task<IActionResult> Post([FromBody] OrderDto dto)
         {
             await _service.AddAsync(dto);
@@ -47,6 +49,7 @@ namespace OrderManagement.Api.Controllers
         }
 
         [HttpPut("{id}")]
+        [Authorize(Roles = "SalesManager")]
         public async Task<IActionResult> Put(int id, [FromBody] OrderDto dto)
         {
             if (id != dto.OrderId) return BadRequest();
@@ -55,6 +58,7 @@ namespace OrderManagement.Api.Controllers
         }
 
         [HttpDelete("{id}")]
+        [Authorize(Roles = "SalesManager")]
         public async Task<IActionResult> Delete(int id)
         {
             await _service.DeleteAsync(id);
