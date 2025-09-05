@@ -38,3 +38,12 @@ Password:Manager123!
 
 - La aplicación no está 100% terminada por limitaciones de tiempo.
 - La arquitectura usada es una híbrida inspirada en Clean Architecture y principios SOLID, no es una implementación estricta debido al tiempo disponible.
+
+---
+
+## Explicación de cómo se ejecutó la prueba
+
+- Se diseñó y desarrolló un backend en .NET Core con API REST, consumida por un frontend en Angular.
+- Se trabajó con SQL Server local para la persistencia.
+- Se implementaron funcionalidades clave para mostrar conocimiento en arquitectura, patrones y buenas prácticas.
+- La intención es ampliar la aplicación si se dispone de más tiempo.
