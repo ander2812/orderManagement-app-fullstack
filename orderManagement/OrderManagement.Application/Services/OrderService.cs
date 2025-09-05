@@ -12,12 +12,20 @@ namespace OrderManagement.Application.Services
         private readonly IOrderRepository _repo;
         private readonly IMapper _mapper;
         private readonly IUserContext _user;
+        private IOrderRepository object1;
+        private IMapper object2;
 
         public OrderService(IOrderRepository repo, IMapper mapper, IUserContext user)
         {
             _repo = repo;
             _mapper = mapper;
             _user = user;
+        }
+
+        public OrderService(IOrderRepository object1, IMapper object2)
+        {
+            this.object1 = object1;
+            this.object2 = object2;
         }
 
         public async Task<IEnumerable<OrderDto>> GetAllAsync()

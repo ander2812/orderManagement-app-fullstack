@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagement.Domain", "O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagement.Infrastructure", "OrderManagement.Infrastructure\OrderManagement.Infrastructure.csproj", "{64FAD331-6F8F-42F0-8900-B168C43C0103}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagementTest", "OrderManagementTest\OrderManagementTest.csproj", "{BFC10983-E807-4399-AF13-12F5537BADAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,8 +71,23 @@ Global
 		{64FAD331-6F8F-42F0-8900-B168C43C0103}.Release|x64.Build.0 = Release|Any CPU
 		{64FAD331-6F8F-42F0-8900-B168C43C0103}.Release|x86.ActiveCfg = Release|Any CPU
 		{64FAD331-6F8F-42F0-8900-B168C43C0103}.Release|x86.Build.0 = Release|Any CPU
+		{BFC10983-E807-4399-AF13-12F5537BADAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC10983-E807-4399-AF13-12F5537BADAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC10983-E807-4399-AF13-12F5537BADAB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BFC10983-E807-4399-AF13-12F5537BADAB}.Debug|x64.Build.0 = Debug|Any CPU
+		{BFC10983-E807-4399-AF13-12F5537BADAB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BFC10983-E807-4399-AF13-12F5537BADAB}.Debug|x86.Build.0 = Debug|Any CPU
+		{BFC10983-E807-4399-AF13-12F5537BADAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC10983-E807-4399-AF13-12F5537BADAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC10983-E807-4399-AF13-12F5537BADAB}.Release|x64.ActiveCfg = Release|Any CPU
+		{BFC10983-E807-4399-AF13-12F5537BADAB}.Release|x64.Build.0 = Release|Any CPU
+		{BFC10983-E807-4399-AF13-12F5537BADAB}.Release|x86.ActiveCfg = Release|Any CPU
+		{BFC10983-E807-4399-AF13-12F5537BADAB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07B0980D-4F7D-4FA8-85B7-85813AF5A5AF}
 	EndGlobalSection
 EndGlobal
